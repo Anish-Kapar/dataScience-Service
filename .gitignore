@@ -1,0 +1,15 @@
+dsenv
+.env
+.DS_Store
+dist/
+src/ds_service.egg-info/
+src/app/service/__pycache__/messageService.cpython-311.pyc
+
+
+venv/
+credentials.json
+token.json
+expenses.db
+.idea/
+__pycache__/
+*.pyc
